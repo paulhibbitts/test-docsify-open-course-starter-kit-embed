@@ -2,6 +2,7 @@
 - [Week 2 (May 16 - 22)](module-2)
 - [Week 3 (May 23 - 29)](module-3)
 - [Week 4 (May 30 - Jun 5)](module-4)
+- [Basics](basics/overview)
 - **LMS Links**
 - [![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://sso.canvaslms.com/calendar)
 - [![Assignments](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080)Assignments](https://sso.canvaslms.com/courses/1924881/assignments )
