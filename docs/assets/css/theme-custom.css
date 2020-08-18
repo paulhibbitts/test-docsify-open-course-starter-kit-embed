@@ -122,3 +122,7 @@ blockquote ul li:before {
   color: white;
   text-decoration: none;
 }
+
+.markdown-section > * {
+    font-size: 16px;
+}
